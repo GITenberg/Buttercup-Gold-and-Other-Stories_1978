@@ -1,0 +1,29 @@
+_repo: Buttercup-Gold-and-Other-Stories_1978
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Field, Ellen Robena
+    gutenberg_agent_id: '769'
+    url: http://www.gutenberg.org/2009/agents/769
+description: ''
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- GITenberg
+tableOfContents: The little New Year -- Mother Nature's house cleaning -- How the
+  raindrops and sunbeams helped -- Rock-a-by baby -- A child of spring -- Mr. Frog's
+  story -- The robin -- Easter carol -- The lily sisters -- Nature's violet children
+  -- Baby caterpillar -- Five little Indian brothers -- Buttercup gold -- The raindrops
+  -- A fall song -- The babies' blankets -- The first Christmas -- The Christmas star
+  -- Love's garden.
+title: Buttercup Gold, and Other Stories
+url: http://www.gutenberg.org/ebooks/1978
